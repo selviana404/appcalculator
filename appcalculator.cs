@@ -1,6 +1,6 @@
 
 
-using system;
+using System;
 class HelloWorld {
   static void Main() {
     Console.WriteLine("Aplikasi kalkulator");
